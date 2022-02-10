@@ -1,0 +1,26 @@
+{
+  "grammarly.overrides": [
+    {
+      "files": [
+        "**/E1T1.txt"
+      ],
+      "config": {
+        "audience": "knowledgeable",
+        "dialect": "british",
+        "domain": "academic",
+        "emotions": [
+          "neutral",
+          "confident",
+          "joyful",
+          "optimistic",
+          "friendly",
+          "analytical"
+        ],
+        "goals": [
+          "describe",
+          "tellStory"
+        ]
+      }
+    }
+  ]
+}
