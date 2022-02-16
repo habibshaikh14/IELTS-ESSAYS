@@ -21,6 +21,18 @@
           "tellStory"
         ]
       }
+    },
+    {
+      "files": [
+        "**/Task1/essay8.md"
+      ],
+      "config": {
+        "audience": "knowledgeable",
+        "dialect": "british",
+        "domain": "general",
+        "emotions": [],
+        "goals": []
+      }
     }
   ]
 }
