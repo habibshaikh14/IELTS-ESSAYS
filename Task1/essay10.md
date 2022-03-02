@@ -1,0 +1,7 @@
+The pie chart is used to illustrate the outcome of a survey that was conducted in 1999 in Britain to find out the proportion of tourists visiting the four major tourist attractions. It also provides a list of the percentage of people visiting the Theme Parks.
+
+Looking from an overall perspective, it is clearly evident that out of the four locations, Theme Parks and, Museums and Galleries experienced the most number of visits. The number of visitors in these two places combined resulted in three-quarters of the total distribution while Historic Museums and Monuments and Wildlife Parks and Zoos together were able to attract only 25 per cent of the visitors.
+
+The highest number of visits were experienced by theme parks with 38 per cent of total visits being made to these destinations. Among them, one particular park that was at the top was Blackpool Pleasure Beach which was able to record 47 per cent of the visits. Followed by Alton Towers and Pleasureland, Southport which saw 17 per cent and 16 per cent visitors respectively. Theme parks like Chessington World of Adventures and Legoland, Windsor were at the last with only 10 per cent of visitors each.
+
+After theme parks not far behind were Museums and Galleries with 37 per cent from the distribution of visits. Whereas, places like Historic Houses and Monuments were able to call only 16 per cent of the visitors. Wildlife Parks and Zoos had the lowest score with only 9 per cent of the visitors visiting these places.
